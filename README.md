@@ -4,7 +4,7 @@ Placeholder Repository for the UoT Fintech-Project01 2022 Spring Cohort - Group 
 ## Team
 * J....
 * [Satish Surath](https://github.com/nomadic-me)
-* V...
+* [Vanessa Teran](https://github.com/vanessateranm) 
 
 ## Guides
 * [PresentationGuidelines.md](Guides/PresentationGuidelines.md)
